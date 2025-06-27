@@ -15,7 +15,7 @@ Para probar el diseño jerarquico de clases, instancia en el clase de prueba
 * Ejecutor (la-s clase-s respectiva-s), con datos aleatorios.
 Los escenarios de prueba pueden darse para el alquiler de una o varias 
 * peliculas según la preferencia del usuario.
- * @author juanis 
+ * @author juani
  */
 
 import java.util.Arrays;
